@@ -176,4 +176,4 @@ class GMLexer(RegexLexer):
 #     }
 
 if __name__ == "__main__":
-	print(HtmlFormatter(style='colorful').get_style_defs())
+	print(HtmlFormatter(style='colorful').get_style_defs()) # get css
